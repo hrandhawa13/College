@@ -2,7 +2,6 @@
 * Commands supported by the CollegeTester to use the College which is
 * a collection of Students.
 *
-* @author Gladys Monagan 
 * @version September 21, 2017
 */
 public enum Command {
